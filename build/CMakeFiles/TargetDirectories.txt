@@ -1,0 +1,4 @@
+/home/tspoon/workspace/Omok/build/CMakeFiles/Omok.dir
+/home/tspoon/workspace/Omok/build/CMakeFiles/edit_cache.dir
+/home/tspoon/workspace/Omok/build/CMakeFiles/rebuild_cache.dir
+/home/tspoon/workspace/Omok/build/CMakeFiles/Omok_autogen.dir
